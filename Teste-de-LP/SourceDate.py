@@ -11,10 +11,8 @@ def get_date(date_input):
         
     Returns
     Retorna a diferença entre as datas!
-    -------
-    None.
+    ----------
     
-    -------
     >>> get_date("28 de Agosto de 2023 - 29 de Agosto de 2023")
     1
     
